@@ -1,1 +1,1 @@
-Rails.application.routes.draw { get 'home/index' }
+Rails.application.routes.draw { root 'home/index' }
